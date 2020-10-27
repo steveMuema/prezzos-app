@@ -1,0 +1,16 @@
+//loaders
+export const LOGIN_ENABLE_LOADER = 'LOGIN_ENABLE_LOADER';
+export const LOGIN_DISABLE_LOADER = 'LOGIN_DISABLE_LOADER';
+export const FETCH_HOS_ENABLE_LOADER = 'FETCH_HOS_ENABLE_LOADER';
+export const FETCH_HOS_DISABLE_LOADER = 'FETCH_HOS_DISABLE_LOADER';
+
+// login
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_RESPONSE = 'LOGIN_RESPONSE';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const LOGOUT = 'LOGOUT';
+
+// head of state data
+export const FETCH_HOS_REQUEST = 'FETCH_HOS_REQUEST';
+export const SAVE_HOS_DATA = 'SAVE_HOS_DATA';
+export const FETCH_HOS_FAILED = 'FETCH_HOS_FAILED';
